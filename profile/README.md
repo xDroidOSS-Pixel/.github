@@ -18,6 +18,12 @@ lunch xdroid_$devicecodename-userdebug
 ```bash
 make xd -j$(nproc --all)
 ```
+### Pixel 2 & 2XL:
+[![Download xDroid Pixel (Unofficial)](https://img.shields.io/sourceforge/dm/ar-build.svg)](https://sourceforge.net/projects/ar-build/files/latest/download) [![Download xDroid Pixel (Unofficial)](https://img.shields.io/sourceforge/dw/ar-build.svg)](https://sourceforge.net/projects/ar-build/files/latest/download) [![Download xDroid Pixel (Unofficial)](https://img.shields.io/sourceforge/dd/ar-build.svg)](https://sourceforge.net/projects/ar-build/files/latest/download) [![Download xDroid Pixel (Unofficial)](https://img.shields.io/sourceforge/dt/ar-build.svg)](https://sourceforge.net/projects/ar-build/files/latest/download)
+
+### Pixel 3 & 3XL:
+WIP
+
 ### Credits ###
  * [**xDroidOSS**](https://github.com/xdroid-oss)
  * [**AOSP**](https://android.googlesource.com)
