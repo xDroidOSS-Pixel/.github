@@ -9,13 +9,9 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
 
 ### Build source ###
-```bash
+```
 . build/envsetup.sh
-```
-```bash
 lunch xdroid_$devicecodename-userdebug
-```
-```bash
 make xd -j$(nproc --all)
 ```
 ### Pixel 2 & 2XL:
