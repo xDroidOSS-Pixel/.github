@@ -20,8 +20,10 @@ make xd -j$(nproc --all)
 ### Pixel 3 & 3XL:
 WIP
 
-### Credits ###
+### Special Credits ###
  * [**xDroidOSS**](https://github.com/xdroid-oss)
+ 
+### Credits ###
  * [**AOSP**](https://android.googlesource.com)
  * [**CAF**](https://source.codeaurora.org)
  * [**PixelExperience**](https://github.com/PixelExperience)
@@ -31,3 +33,4 @@ WIP
  * [**WeebProject**](https://github.com/WeebProject)
  * [**AOSPMasterVayu**](https://github.com/AOSP-Master-Vayu)
  * [**AEX**](https://github.com/AospExtended)
+ * [**Evolution X**](https://github.com/Evolution-X)
