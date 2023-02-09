@@ -14,10 +14,10 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 lunch xdroid_$devicecodename-userdebug
 make xd -j$(nproc --all)
 ```
-### Pixel 2 & 2XL:
+### Pixel 2 & 2XL
 [![Download xDroid Pixel (Unofficial)](https://img.shields.io/sourceforge/dm/ar-build.svg)](https://sourceforge.net/projects/ar-build/files/latest/download) [![Download xDroid Pixel (Unofficial)](https://img.shields.io/sourceforge/dw/ar-build.svg)](https://sourceforge.net/projects/ar-build/files/latest/download) [![Download xDroid Pixel (Unofficial)](https://img.shields.io/sourceforge/dd/ar-build.svg)](https://sourceforge.net/projects/ar-build/files/latest/download) [![Download xDroid Pixel (Unofficial)](https://img.shields.io/sourceforge/dt/ar-build.svg)](https://sourceforge.net/projects/ar-build/files/latest/download)
 
-### Pixel 3 & 3XL:
+### Pixel 3 & 3XL
 WIP
 
 ### Special Credits ###
