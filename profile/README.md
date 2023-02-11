@@ -18,7 +18,7 @@ make xd -j$(nproc --all)
 [![Download xDroid Pixel (Unofficial)](https://img.shields.io/sourceforge/dm/ar-build.svg)](https://sourceforge.net/projects/ar-build/files/latest/download) [![Download xDroid Pixel (Unofficial)](https://img.shields.io/sourceforge/dw/ar-build.svg)](https://sourceforge.net/projects/ar-build/files/latest/download) [![Download xDroid Pixel (Unofficial)](https://img.shields.io/sourceforge/dd/ar-build.svg)](https://sourceforge.net/projects/ar-build/files/latest/download) [![Download xDroid Pixel (Unofficial)](https://img.shields.io/sourceforge/dt/ar-build.svg)](https://sourceforge.net/projects/ar-build/files/latest/download)
 
 ### Pixel 3 & 3XL
-WIP
+[![Download xDroid Pixel (Unofficial)](https://img.shields.io/sourceforge/dm/sqrqzq-project/XDROID?color=%2332cd32)](https://sourceforge.net/projects/sqrqzq-project/files/XDROID) [![Download xDroid Pixel (Unofficial)](https://img.shields.io/sourceforge/dw/sqrqzq-project/XDROID?color=%2332cd32)](https://sourceforge.net/projects/sqrqzq-project/files/XDROID) [![Download xDroid Pixel (Unofficial)](https://img.shields.io/sourceforge/dd/sqrqzq-project/XDROID?color=%2332cd32)](https://sourceforge.net/projects/sqrqzq-project/files/XDROID) [![Download xDroid Pixel (Unofficial)](https://img.shields.io/sourceforge/dt/sqrqzq-project/XDROID?color=%2332cd32)](https://sourceforge.net/projects/sqrqzq-project/files/XDROID)
 
 ### Special Credits ###
  * [**xDroidOSS**](https://github.com/xdroid-oss)
