@@ -2,7 +2,7 @@
 
 ### Sync source ###
 ```bash
-repo init -u https://github.com/xdroidOSS-Pixel/manifest -b thirteen
+repo init -u https://github.com/xdroidOSS-Pixel/manifest -b udc
 ```
 ```bash
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
@@ -34,3 +34,6 @@ make xd -j$(nproc --all)
  * [**AOSPMasterVayu**](https://github.com/AOSP-Master-Vayu)
  * [**AEX**](https://github.com/AospExtended)
  * [**Evolution X**](https://github.com/Evolution-X)
+ * [**PixelOS**](https://github.com/PixelOS-AOSP)
+
+* And tons of other ROMs not mentioned above
